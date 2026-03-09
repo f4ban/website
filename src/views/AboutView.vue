@@ -22,8 +22,9 @@
             optimizing processes through automation and building creative,
             tech-driven solutions. When I’m not tackling challenges at work, I
             love experimenting with self-hosted infrastructure and diving into
-            emerging technologies. You can explore some of my home
-            <router-link to="/projects">projects</router-link>.
+            emerging technologies. You can explore some of my home projects
+            <router-link to="/projects">here</router-link> or on my
+            <a href="https://github.com/f4ban">GitHub</a>.
           </p>
           <p>
             At HalloWelt!, I administrate and deploy BlueSpice, a open source
