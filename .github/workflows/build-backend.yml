@@ -27,7 +27,7 @@ jobs:
 
       - name: Push image to GitHub Container Registry
         run: |
-          IMAGE_NAME="website:latest"
+          IMAGE_NAME="backend:latest"
           IMAGE_ID="ghcr.io/${{ github.repository_owner }}/backend:latest"
           IMAGE_ID=$(echo "$IMAGE_ID" | tr '[:upper:]' '[:lower:]')
           echo "IMAGE_ID=$IMAGE_ID"
