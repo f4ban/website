@@ -38,7 +38,6 @@ let timeout = null;
 const backgrounds = [
   "/images/background/bg1.webp",
   "/images/background/bg2.webp",
-  "/images/background/bg3.webp",
   "/images/background/bg4.webp",
   "/images/background/bg5.webp",
 ];
